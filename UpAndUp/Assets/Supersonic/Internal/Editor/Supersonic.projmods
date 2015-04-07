@@ -1,0 +1,36 @@
+{
+  "group": "Supersonic",
+  "patches": [],
+  "libs": [
+    "libz.dylib",
+  ],
+  "librarysearchpaths": [],
+  "frameworks": [
+    "CoreGraphics.framework",
+    "AdSupport.framework:weak",
+    "QuartzCore.framework",
+    "MediaPlayer.framework",
+    "SystemConfiguration.framework",
+    "StoreKit.framework:weak",
+    "Security.framework:weak",
+    "CoreLocation.framework:weak",
+    "CoreTelephony.framework",
+    "MobileCoreServices.framework",
+    "CFNetwork.framework",
+    "AVFoundation.framework",
+    "CoreVideo.framework",
+    "CoreMedia.framework",
+  ],
+  "headerpaths": [
+
+  ],
+  "files": [
+
+  ],
+  "folders": [
+
+  ],	
+  "excludes": [],
+  "linkers": [],
+  "plist": []
+}
